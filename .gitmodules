@@ -1,0 +1,6 @@
+[submodule "lib/sdk"]
+	path = lib/sdk
+	url = https://github.com/maddinat0r/samp-plugin-sdk.git
+[submodule "lib/json"]
+	path = lib/json
+	url = https://github.com/nlohmann/json.git

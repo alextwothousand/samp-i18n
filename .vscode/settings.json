@@ -1,0 +1,19 @@
+{
+    "Lua.diagnostics.globals": [
+        "project",
+        "location",
+        "configurations",
+        "workspace",
+        "kind",
+        "language",
+        "cppdialect",
+        "files",
+        "architecture",
+        "includedirs",
+        "filter",
+        "defines",
+        "buildoptions",
+        "symbols",
+        "optimize"
+    ]
+}
